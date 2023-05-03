@@ -24,7 +24,7 @@ function writePassword() {
     passwordText.value = "";
   }
 }
-
+// The function that makes the password random
 function generatePassword() {
   var password = "";
   for(var i = 0; i < characterLength; i++) {
@@ -33,7 +33,7 @@ function generatePassword() {
   }
   return password;
 }
-
+// gives user alerts for options of what criteria they want in their password
 function getPrompts() {
     choice = [];
 
