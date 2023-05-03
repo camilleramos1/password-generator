@@ -20,3 +20,4 @@ https://camilleramos1.github.io/password-generator/
 
 ## Screenshot of live application
 
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/129894673/236034947-e59e3569-beea-4a4f-9968-a1ae4b4c27ec.png">
